@@ -8,6 +8,8 @@ Web dashboard is included for visualisation of these results:
 
 ![Screenshot](/screenshot.png?raw=true)
 
+Live RSVP stream is available through [Meetup.com WebSocket API](http://www.meetup.com/meetup_api/docs/stream/2/rsvps/).
+
 ## Stream Processing
 
 To start stream processing locally:
